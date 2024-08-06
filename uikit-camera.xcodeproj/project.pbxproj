@@ -295,6 +295,7 @@
 				DEVELOPMENT_TEAM = 6NVYJU48V6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "uikit-camera/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "$(PRODUCT_NAME)";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +324,7 @@
 				DEVELOPMENT_TEAM = 6NVYJU48V6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "uikit-camera/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "$(PRODUCT_NAME)";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
